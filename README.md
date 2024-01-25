@@ -23,6 +23,7 @@ If you plan to use the plastic shield as pictured, snap off the indented tab tha
 6) Edit the code and flash to the device to edit the stimulation parameters
 
 **Troubleshooting**
+
 Connect all wires and resistors as shown in the diagram to avoid potential problems. 
 
 Make sure to put 10k ohm resistors between the button and ground. Setting pinMode to INPUT_PULLUP is insufficient and will cause laser power to "leak" when it should be off.
